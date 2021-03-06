@@ -152,3 +152,5 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/.vs/CWLibrary/v16/TestStore/0/*.testlog
+/.vs
